@@ -58,6 +58,4 @@
 5. Utilizar GitHub Pages para desplegar la web en internet
 
 
-<img src="./resources/final_1.png" alt="foto final 1">
-<img src="./resources/final_2.png" alt="foto final 2">
-<img src="./resources/final_3.png" alt="foto final 3">
+<img src="./resources/PaginaCompleta.png" alt="foto final">
