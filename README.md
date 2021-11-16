@@ -34,12 +34,12 @@
     "underline" y con el color de texto negro.
 
     * Regla 10. Los elementos con la clase `primero` tendrán un ancho del 75%, un borde con los atributos 
-    "solid darkblue 3px". El borde tendrá un borde redondeado de 20px. El margen de todos los lados será 0, 
+    "solid darkblue 3px". El borde tendrá un borde redondeado de 20px. El margen de todos los lados será "auto", 
     el color del fondo será "white" y tendrá una sombra de caja "box-shadow" con los 
     atributos "6px 6px 0px 2px rgba(0, 0, 0, 0.35)".
 
     * Regla 11. Los elementos con la clase `tercero` tendrán un ancho del 50%, un borde con los atributos 
-    "solid darkblue 3px". El borde tendrá un borde redondeado de 20px. El margen de todos los lados será 0, 
+    "solid darkblue 3px". El borde tendrá un borde redondeado de 20px. El margen de todos los lados será "auto", 
     el color del fondo será "white" y tendrá una sombra de caja "box-shadow" con los 
     atributos "6px 6px 0px 2px rgba(0, 0, 0, 0.35)".
 
